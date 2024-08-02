@@ -1,5 +1,5 @@
 ## Boas vindas ao meu perfil 💙💙
-Meu nome é Letycia Testi
+Meu nome é **Letycia**
 
 ![](https://github.com/user-attachments/assets/02ada22b-7fdf-49d0-8b0b-3646209bb093)
 
