@@ -1,8 +1,8 @@
 ## Boas vindas ao meu perfil 💙💙
 Meu nome é Letycia Testi
 
-![](![Stich Triste GIF - Stich Triste Sad - Discover   Share GIFs](https://github.com/user-attachments/assets/02ada22b-7fdf-49d0-8b0b-3646209bb093)
-)
+![](Stich Triste GIF - Stich Triste Sad - Discover   Share GIFs](https://github.com/user-attachments/assets/02ada22b-7fdf-49d0-8b0b-3646209bb093)
+
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
